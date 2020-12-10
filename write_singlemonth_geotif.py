@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-
 # This python script reads the GRACE mascon Level 3 data available in netcdf
 # 'GRCTellus.JPL.*.RL06M.MSCNv02CRI.nc' and creates geotiff for each time step.
 #
