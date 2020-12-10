@@ -6,6 +6,9 @@ write_singlemonth_geotif.py
 ## Purpose:
 This Python script is used to convert the JPL GRACE Mascon file from netCDF4 to GeoTIFF format. The most current Mascon dataset can be found and downloaded from https://doi.org/10.5067/TEMSC-3JC62. This script decomposes the multi-year monthly Mascon netCDF file into single GeoTIFF files for each month.  
 
+## Author: 
+Munish Sikka, GRACE/GRACE-FO Science Team, Raytheon contractor, munish.sikka@jpl.nasa.gov
+
 ## Inputs and Outputs:
   1. Inputs: data path and filename (.nc)
   2. Outputs: output path.
